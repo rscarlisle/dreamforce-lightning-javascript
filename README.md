@@ -1,1 +1,1 @@
-# visualforce-javascript-project
+# Visualforce-Javascript Project
